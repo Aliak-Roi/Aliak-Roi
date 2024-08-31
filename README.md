@@ -5,7 +5,7 @@ from Github import GithubReadme
 class Git:
     def __init__(self):
         self.name = "Aliak"
-        self.age = "19"
+        self.age = "21"
         self.location = "🇷🇺"
         self.work = "Developer"
 
